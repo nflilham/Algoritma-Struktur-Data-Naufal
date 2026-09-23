@@ -21,8 +21,8 @@ print(pesan[-5])     #Mengambil karakter kelima dari belakang string
 print(pesan[-6],"\n")     #Mengambil karakter keenam dari belakang string
 
 #slicing string
-print(pesan[0:3])    #Mengambil karakter dari index 0 sampai index 2
-print(pesan[3:])     #Mengambil karakter dari index 3 sampai index akhir
+print(pesan[0:3])
+print(pesan[3:])
 print(pesan[:3])    
 print(pesan[:])
 print(pesan[0:6],"\n")
