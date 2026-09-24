@@ -53,3 +53,5 @@ while True:
     print(f"\n--- SKOR SAAT INI ---")
     print(f"Kamu: {skor_user} | Bot: {skor_bot}")
     print("==============================")
+
+    #tes
