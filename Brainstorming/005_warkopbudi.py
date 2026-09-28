@@ -16,11 +16,13 @@ jumlahmenu = 0
 print("==============================")
 
 while True:
-    pilihan = input("Mau pesen apa\t: \n(1-4 / ga)\t: ")
+    pilihan = input("Mau pesen apa\t: \n(1-4 / keluar)\t: ")
 
     if pilihan == "ga":
         uangpembeli = int(input("Berapa Uangmu\t: "))
         print("Total\t: ",uangpembeli - (menu * jumlahmenu))
         break
 
-    elif pilihan == 
+    elif pilihan == 1
+
+     
