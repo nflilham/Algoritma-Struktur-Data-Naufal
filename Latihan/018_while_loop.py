@@ -1,4 +1,3 @@
-#Menecetak angka 1 - 5
 angka = 1
 while angka <= 3:
     print(angka)

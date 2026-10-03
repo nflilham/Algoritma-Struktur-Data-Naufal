@@ -1,16 +1,11 @@
-print("\n")
-umur = int(input("Berapa umurmu\t\t\t\t: "))
-punya_sim_A = input("Apakah kamu punya SIM A? (ya/tidak)\t: ").lower()
-punya_sim_C = input("Apakah kamu punya SIM C? (ya/tidak)\t: ").lower()
-psikologi = input("Apakah Lulus Tes Psikolog? (ya/tidak)\t: ").lower()
-print("\n")
+# Operator Logika
+# Naufal Ilham Fauzan
+# 2502106
 
-if umur >= 17 and psikologi == "ya" and punya_sim_A == "ya" and punya_sim_C == "ya":
-    print("Anda BOLEH mengendarai Motor dan Mobil!")
-elif umur >= 17 and psikologi == "ya" and punya_sim_A == "ya" and punya_sim_C == "tidak":
-    print("Anda BOLEH mengendarai Mobil!")
-elif umur >= 17 and psikologi == "ya" and punya_sim_A == "tidak" and punya_sim_C == "ya":
-    print("Anda BOLEH mengendarai Motor!")
+umur = int(input("Masukkan umurmu : "))
+punya_sim = input("Apakah kamu punya SIM? (ya/tidak): ").lower()
+
+if umur >= 17 and punya_sim == "ya":
+    print("Kamu dapat berkendara!")
 else:
-    print("Anda TIDAK BOLEH berkendara!")
-print("\n")
+    print("Kamu TIDAK DAPAT berkendara!")

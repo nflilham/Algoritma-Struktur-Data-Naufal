@@ -4,7 +4,6 @@
 
 angka = int(input("\nMasukkan angka\t: "))
 
-#IF
 if angka < 0:
     print("Angka ini adalah bilangan NEGATIF!")
 if angka > 0:
