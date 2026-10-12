@@ -1,28 +1,18 @@
-#Mencoba Tugas Mahasiswa Informatika Itenas
+# Menu Warkop Budi
 
-print("==============================")
-print("     WARUNG KOPI PAK BUDI     ")
-print("==============================\n")
+menu = [
+    "Nasi Goreng",
+    "Mie Goreng",
+    "Sate Ayam",
+    "Rendang",
+    "Bebek Goreng",
+    "Bakso",
+    "Sop Ikan",
+    "Capcay",
+    "Tahu Goreng",
+    "Ketan"
+]
 
-nama = input("Masukkan nama Pembeli\t: ")
-print(f"Halo {nama.upper()}, Mau pesen menu apa?\n")
-
-print("==============================")
-print("       MENU WARKOP BUDI       ")
-print("==============================")
-
-menu = int(print("1 : Josu\n2 : Kopsu\n3 : Kumsu\n4 : Gulaku"))
-jumlahmenu = 0
-print("==============================")
-
-while True:
-    pilihan = input("Mau pesen apa\t: \n(1-4 / keluar)\t: ")
-
-    if pilihan == "ga":
-        uangpembeli = int(input("Berapa Uangmu\t: "))
-        print("Total\t: ",uangpembeli - (menu * jumlahmenu))
-        break
-
-    elif pilihan == 1
-
-     
+# Looping menu warkop Budi
+for i in range(len(menu)):
+    print(f"{i+1}. {menu[i]}")
