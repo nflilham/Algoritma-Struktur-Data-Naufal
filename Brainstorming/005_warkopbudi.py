@@ -151,6 +151,7 @@ while True:
     print("│  [1] Pesan Makanan/Minuman      │")
     print("│  [2] Cek Pesanan                │")
     print("│  [3] Bayar & Pulang             │")
+    print("│  [4] Keluar                      │")
     print("└─────────────────────────────────┘")
 
     pilihan = input("  Pilih menu [1/2/3]: ").strip()

@@ -18,6 +18,7 @@ print("1. Kopi Hitam  - Rp8.000")
 print("2. Kopi Susu   - Rp12.000")
 print("3. Es Teh      - Rp6.000")
 print("4. Gula Aren   - Rp15.000\n")
+print("")
 
 # Variabel penampung total belanja, dimulai dari 0
 total_harga = 0.0          # float, akan terus bertambah tiap pesanan
