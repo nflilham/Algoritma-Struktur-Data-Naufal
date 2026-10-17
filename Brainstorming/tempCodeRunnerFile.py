@@ -1,2 +1,2 @@
 
-            hasil = angka1 + (angka2 * angka3)
+        print("Pilihan tidak valid. Masukkan angka 1-4.")
