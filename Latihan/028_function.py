@@ -92,4 +92,5 @@ def cetak_dict(**dict):
     for key, value in dict.items():
         print(f"{key}: {value}")
 
+print()
 cetak_dict(nama="Nopal", umur=20, kota="Sumedang")
