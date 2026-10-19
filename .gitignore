@@ -1,33 +1,17 @@
-# ==========================================
-# 1. Aturan & Folder Markdown (.md)
-# ==========================================
-
-# Abaikan semua file .md di seluruh folder proyek
 *.md
 **/*.md
-
-# (PENTING) Pengecualian agar README.md tetap terunggah ke Git
 !README.md
 
-# Abaikan folder konfigurasi / skill IDE
 .gemini/
 .antigravity/
 rules/
 skills/
 
-
-# ==========================================
-# 2. File Sampah Python & Editor (Rekomendasi)
-# ==========================================
-
-# File sementara Code Runner (terlihat di workspace kamu)
 tempCodeRunnerFile.py
 *.tmp
 
-# Cache Python
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Pengaturan lokal VS Code / Antigravity
 .vscode/
