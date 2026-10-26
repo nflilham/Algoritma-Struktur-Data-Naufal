@@ -1,0 +1,4 @@
+ 1. nopal, 1, 1, 1, 1, 99, 1, 1, 1, 1
+ 2. peln, 1, 1, 1, 1, 994, 1, 1, 1, 1
+ 1. fathir, 23423423, pmm, cibiru, upi, 99, 3, pmm, gagan, 2077
+ 2. gagan, 23823487, pmm, pmm, upi, 99, 3, probstat, bu sri, 2092
