@@ -15,4 +15,4 @@ __pycache__/
 *$py.class
 
 .vscode/
-.txt
+*.txt
