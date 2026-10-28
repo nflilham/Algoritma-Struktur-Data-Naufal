@@ -1,4 +1,4 @@
- 1. nopal, 1, 1, 1, 1, 99, 1, 1, 1, 1
- 2. peln, 1, 1, 1, 1, 994, 1, 1, 1, 1
- 1. fathir, 23423423, pmm, cibiru, upi, 99, 3, pmm, gagan, 2077
- 2. gagan, 23823487, pmm, pmm, upi, 99, 3, probstat, bu sri, 2092
+ No 1 :, nopal, 2502106, pmm, cibiru, upi, 98, 3, probstat, bu sri, 2026
+ No 2 :, gagan, 2507777, informatika, teknik, unpad, 88, 3, web design, pa asep, 2026
+ No 3 :, ajril, 2509999, pertanian, fpti, unpad, 77, 3, strawberi, bu rudi, 2026
+ No 4 :, pahmi, 2506060, tvf, fpsd, upi, 77, 7, film, yayang, 2026
