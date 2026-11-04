@@ -23,13 +23,13 @@ Repositori ini berisi kumpulan implementasi kode, latihan praktikum, dan tugas m
 
 ## 📁 Struktur Direktori
 
-Setiap berkas Python di dalam repositori ini dirancang mandiri (*standalone*) menggunakan struktur data murni Python.
-
 ```text
 .
-├── Brainstorming/   # Berkas eksperimen dan eksplorasi logika algoritma
-├── Latihan/         # Latihan soal praktikum dan implementasi konsep materi
-└── Tugas/           # Pengumpulan tugas resmi mata kuliah
+├── Brainstorming/      # Eksperimen dan eksplorasi logika algoritma
+├── Laprak/             # Laporan praktikum mata kuliah
+├── Python Dasar/       # Latihan dasar Python (syntax, tipe data, control flow)
+├── Python Modul/       # Praktikum modular dan import Python
+└── Tugas/              # Pengumpulan tugas resmi mata kuliah
 ```
 
 ---
