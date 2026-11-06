@@ -16,3 +16,7 @@ __pycache__/
 
 .vscode/
 *.txt
+.env
+
+# Hasil generate QR code
+Brainstorming/QR Code/hasil qr-code/
