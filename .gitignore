@@ -8,11 +8,15 @@ rules/
 skills/
 
 tempCodeRunnerFile.py
+Brainstorming/000_brainstorm.py
 *.tmp
 
 __pycache__/
 *.py[cod]
 *$py.class
+
+.venv/
+venv/
 
 .vscode/
 *.txt
