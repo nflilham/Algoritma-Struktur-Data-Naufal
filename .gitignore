@@ -24,3 +24,5 @@ venv/
 
 # Hasil generate QR code
 Brainstorming/QR Code/hasil qr-code/
+*.png
+desktop.ini
