@@ -11,7 +11,8 @@ def binary_search(data, target):
             kanan = tengah - 1
     return -1
 
-angka = [2, 5, 8, 12, 16, 23, 38, 56, 72, 91, 100, 123, 125, 122, 111, 123]
+angka = [4, 9, 16, 22, 34, 38, 46, 57, 68, 80]
+target = 46
 
-hasil_ada = binary_search(angka, int(input("Masukkan angka: ")))
-print(f"Angka {hasil_ada} ditemukan di indeks ke: {hasil_ada}")
+hasil_ada = binary_search(angka, target)
+print(f"Angka {target} ditemukan di indeks ke: {hasil_ada}")

@@ -3,7 +3,7 @@
 
 import time
 
-n = 10000 
+n = 100000 
 data = list(range(n))
 
 start_time = time.perf_counter()

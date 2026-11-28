@@ -11,4 +11,4 @@ def kombinasi_biner(n):
 
     return hasil
 
-print(kombinasi_biner(4))
+print(kombinasi_biner(3))

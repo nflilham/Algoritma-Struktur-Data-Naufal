@@ -3,4 +3,4 @@ def tampilkan_pasangan(n):
         for j in range(n):
             print(i, j)
 
-tampilkan_pasangan(5)
+tampilkan_pasangan(3)
